@@ -1,6 +1,6 @@
 # graph-problems
 
-Two classic graph problems
+Two classic graph problems solved in Python.
 
 ## Q1 Gotta Go Fast
 Find the shortest route from the start location to the end location, going through at least 1 of the cafes.
